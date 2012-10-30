@@ -1,0 +1,1 @@
+Just a short example of calling standard library functions on OSX from NASM using 64 bit assembly.
